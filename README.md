@@ -4,7 +4,7 @@
 
    仓储中包含一个思维导图源文件，思维导图导出的PNG图片，以及README.md和LISENCE.md
 
-![VIM用法.png](https://raw.githubusercontent.com/hualong1009/VIM-Editor-Mind-Map/master/VIM%E7%94%A8%E6%B3%95.png)
+![VIM用法.png](https://github.com/zhangxueyii/VIM-Editor-Mind-Map/blob/master/VIM%E7%94%A8%E6%B3%95.png)
 
 
 
